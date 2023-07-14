@@ -1,0 +1,24 @@
+
+
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.list{
+    margin: auto;
+    display: flex;    
+    border: 2px solid;
+    border-radius: 20px;
+    width: 300px;
+    background-color: lightblue;
+}
+
+li{
+    list-style-type: none;
+}
+
+button{
+    display: flex;
+    margin: 10px auto;
+}
